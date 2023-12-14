@@ -7,7 +7,10 @@ background-color: hsl(212, 45%, 89%);
 }
 
 
+picture {
+border-radius: 10px;
 
+}
 
 .card {
 background-color: hsl(0, 0%, 100%);
